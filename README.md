@@ -9,6 +9,6 @@ This is a card component which is part of
 
 ## The Deployed Version
 Follow this link. 
-[Deployed card](https://www.google.com)
+[Deployed card](https://card-component-2.vercel.app/)
 
 **Have fun building!** 🚀
